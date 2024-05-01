@@ -1,6 +1,3 @@
-https://www.nist.gov/programs-projects/face-recognition-grand-challenge-frgc
-
-
 # FRGC Dataset Setup
 
 ## Getting Started
