@@ -1,6 +1,6 @@
 # Self Morphing 
 
-This repository contains python implementation of Self_morphing with OpenCV using FERET and FRGC datasets in the GRL.
+This repository contains python implementation of Self_morphing with OpenCV using FERET and FRGC datasets in the GRL (Generalizable Representation Learning) paper.
 
 ## Table of Contents
 - [GRL](#table-of-contents)
@@ -55,7 +55,6 @@ If you use this repository or would like to refer the paper, please use the foll
 ```
 @inproceedings{kashiani2023towards,
   title={Towards Generalizable Morph Attack Detection with Consistency Regularization},
-  author={Kashiani, Hossein and Talemi, Niloufar Alipour and Saadabadi, Mohammad Saeed Ebrahimi and Nasrabadi, Nasser M},
   booktitle={2023 IEEE International Joint Conference on Biometrics (IJCB)},
   pages={1--10},
   year={2023},
